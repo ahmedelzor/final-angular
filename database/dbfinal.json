@@ -1,0 +1,240 @@
+{
+  "man": [
+    {
+      "name": "men's track",
+      "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsNyaY3EODZddzBq9WPHndHRIKFPnbQ9J7JPjxrrgDJnwTOUr_nkDTD0dxHrFkc4pGtf0&usqp=CAU",
+      "price": "320 L.E",
+      "id": 5
+    },
+    {
+      "name": "men's track",
+      "imgurl": "https://www.hsreat.com/attachments/%D8%AA%D8%B1%D9%86%D8%AC%D8%A7%D8%AA-%D8%B1%D8%AC%D8%A7%D9%84%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A-%D8%B4%D8%AA%D9%88%D9%8A-2-jpg.176710/",
+      "price": "350 L.E",
+      "id": 7
+    },
+    {
+      "imgurl": "https://www.adwhit.com/uploads/misc/160929/1fafa6bb7271d4baf17dbed9938e606c.jpg",
+      "name": "men's track",
+      "price": "280 L.E",
+      "id": 8
+    },
+    {
+      "imgurl": "https://knoww.cc/wp-content/uploads/2020/01/424-12.jpg",
+      "name": "men's track",
+      "price": "300 L.E",
+      "id": 9
+    },
+    {
+      "imgurl": "https://i.ytimg.com/vi/fxm9Zsy0YDQ/maxresdefault.jpg",
+      "name": "men jeans",
+      "price": "380 L.E",
+      "id": 10
+    }
+  ],
+  "woman": [
+    {
+      "imgurl": "https://setaat.com/wp-content/uploads/2018/02/%D8%A8%D9%8A%D8%AC%D8%A7%D9%85%D8%A7%D8%AA-%D8%AD%D8%B1%D9%8A%D9%85%D9%8A-%D8%B4%D8%AA%D8%A7%D8%A1-2016-%D8%AB%D9%82%D9%81-%D9%86%D9%81%D8%B3%D9%83-6.jpg",
+      "name": "winter pajamas",
+      "price": "300 L.E",
+      "id": 6
+    },
+    {
+      "imgurl": "https://ccute.cc/wp-content/uploads/2018/08/5465-2.jpg",
+      "name": "winter pajamas",
+      "price": "350 L.E",
+      "id": 7
+    },
+    {
+      "name": "winter pajamas",
+      "imgurl": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/59/913622/1.jpg?0172",
+      "price": "280 L. E",
+      "id": 8
+    },
+    {
+      "imgurl": "https://pbs.twimg.com/media/DM7hyggXcAAx6Tw.jpg",
+      "name": "winter pajamas",
+      "price": "320 L.E",
+      "id": 9
+    },
+    {
+      "name": "winter pajamas",
+      "imgurl": "https://woww.cc/wp-content/uploads/2019/05/2667.jpg",
+      "price": "380 L.E",
+      "id": 10
+    },
+    {
+      "imgurl": "https://ccute.cc/wp-content/uploads/2018/08/5465-3.jpg",
+      "name": "winter pajamas",
+      "price": "360 L.E",
+      "id": 11
+    }
+  ],
+  "kids": [
+    {
+      "imgurl": "https://supercairo.com/wp-content/uploads/2021/03/%D8%A7%D8%B2%D9%8A%D8%A7%D8%A1-%D8%A7%D8%B7%D9%81%D8%A7%D9%84-%D8%A8%D9%86%D8%A7%D8%AA-2021-%D8%B5%D9%88%D8%B1-%D9%85%D9%84%D8%A7%D8%A8%D8%B3-%D8%A8%D9%86%D8%A7%D8%AA-%D8%A7%D8%B7%D9%81%D8%A7%D9%84-24.jpg",
+      "name": "girls dress",
+      "price": "220 L.E",
+      "id": 5
+    },
+    {
+      "imgurl": "https://carss.cc/wp-content/uploads/2020/04/1243.jpg",
+      "name": "girls Jeans",
+      "price": "300 L.E",
+      "id": 6
+    },
+    {
+      "imgurl": "https://3.bp.blogspot.com/-hrxnKIikHeA/WvdOYrdHxzI/AAAAAAAAAHo/9_Io8yEaPkw4KX4Fbiuy_QbbUv6bO49LACPcBGAYYCw/s640/baby%2Bstles%2B%25285%2529.jpg",
+      "name": "girls dress",
+      "price": "350 L.E",
+      "id": 7
+    },
+    {
+      "imgurl": "https://2.bp.blogspot.com/-8igA0I4LzFQ/WqaDGloN6fI/AAAAAAAAr3w/wAblwILFzCQhgqE0hQEIMqdMt-p4ZwMmgCLcBGAs/s320/shof_182aceb30b8c860.jpg",
+      "name": "boys set",
+      "price": "450 L.E",
+      "id": 8
+    },
+    {
+      "imgurl": "https://pic.i7lm.com/wp-content/uploads/2019/07/%D8%B7%D9%81%D9%84-%D8%A7%D8%AE%D8%B1-%D8%B4%D9%8A%D8%A7%D9%83%D8%A9.jpg",
+      "name": "boys set",
+      "price": "480 L.E",
+      "id": 9
+    },
+    {
+      "imgurl": "https://womenss.net/wp-content/uploads/2018/06/214-1.jpg",
+      "name": "boys set",
+      "price": "470 L.E",
+      "id": 10
+    }
+  ],
+  "Furniture": [
+    {
+      "imgurl": "https://beautyy.cc/wp-content/uploads/2016/09/127965.jpg",
+      "name": "Turkish mattress",
+      "price": "1200 L.E",
+      "id": 7
+    },
+    {
+      "name": "Turkish mattress",
+      "imgurl": "https://list.istanbul/images/Turkish-furniture-and-the-way-to-import-it-from-Turkey1.jpg",
+      "price": "1700 L.E",
+      "id": 8
+    },
+    {
+      "imgurl": "https://picturess.cc/wp-content/uploads/2019/06/11826-4.jpg",
+      "name": "Turkish mattress",
+      "price": "2300 L.E",
+      "id": 9
+    },
+    {
+      "imgurl": "https://beautyy.cc/wp-content/uploads/2016/09/127965-1.jpg",
+      "name": "Turkish mattress",
+      "price": "1300 L.E",
+      "id": 10
+    },
+    {
+      "imgurl": "https://upload.3dlat.com/uploads/12924974178.jpg",
+      "name": "Turkish mattress",
+      "price": "2500 L.E",
+      "id": 11
+    },
+    {
+      "imgurl": "https://upload.3dlat.com/uploads/12924974176.jpg",
+      "name": "Turkish mattress",
+      "price": "2600 L.E",
+      "id": 12
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "user": "straing",
+      "password": "straing"
+    },
+    {
+      "user": "ahmed elzor",
+      "password": "0000",
+      "id": 2
+    },
+    {
+      "user": "ahmed elzor",
+      "password": "0000",
+      "id": 3
+    },
+    {
+      "user": "ahmed elzor",
+      "password": "0000",
+      "id": 4
+    },
+    {
+      "user": "ahmed elzor",
+      "password": "0000",
+      "id": 5
+    },
+    {
+      "user": "ahmed elzor",
+      "password": "0000",
+      "id": 6
+    },
+    {
+      "user": "ahmed elzor",
+      "password": "0000",
+      "id": 7
+    },
+    {
+      "user": "ahmed elzor",
+      "password": "0000",
+      "id": 8
+    },
+    {
+      "user": "ahmed elzor",
+      "password": "0000",
+      "id": 9
+    },
+    {
+      "user": "ahmed elzor",
+      "password": "0000",
+      "id": 10
+    },
+    {
+      "user": "ahmed elzor",
+      "password": "0000",
+      "id": 11
+    },
+    {
+      "user": "ahmed elzor",
+      "password": "0000",
+      "id": 12
+    },
+    {
+      "user": "ahmed elzor",
+      "password": "0000",
+      "id": 13
+    },
+    {
+      "user": "ahmed elzor",
+      "password": "0000",
+      "id": 14
+    },
+    {
+      "user": "ahmed elzor",
+      "password": "0000",
+      "id": 15
+    },
+    {
+      "user": "ahmed elzor",
+      "password": "0000",
+      "id": 16
+    },
+    {
+      "user": "ahmed elzor",
+      "password": "0000",
+      "id": 17
+    },
+    {
+      "user": "ahmed elzor",
+      "password": "0000",
+      "id": 18
+    }
+  ]
+}

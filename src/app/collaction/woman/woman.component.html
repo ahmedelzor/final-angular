@@ -1,0 +1,13 @@
+
+<h1 class="text-center text-danger container" style="margin-top: 100px;background-color: rgba(238, 222, 222 , 0.5); "> Collaction Woman</h1>
+<div class="container">
+    <div class="row mb-4 " style="background-color: rgba(92, 71, 33, 0.3);">  
+            <ul class="col-xl-4 my-5" *ngFor="let Woman of alldata">
+                <li style="display: none;" >{{Woman.id}}</li>
+            <li><img width="350" height="400" [src]="Woman.imgurl" alt=""></li>
+            <li>{{Woman.name}}</li>
+            <li>{{Woman.price}}</li>
+             <li><a routerLink="/updataW/{{Woman.id}}" class="btn btn-info mr-1 mt-2">Updata</a> <button (click)="remove(Woman.id)" class="btn btn-info ml-1 mt-2">Remove</button> </li>  
+        </ul>
+    </div>
+</div>

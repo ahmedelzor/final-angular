@@ -1,0 +1,13 @@
+
+<h1 class="text-center text-danger container" style="margin-top: 100px;background-color: rgba(238, 222, 222 , 0.5); "> Collaction Kids</h1>
+<div class="container">
+    <div class="row mb-4 " style="background-color: rgba(92, 71, 33, 0.3);">  
+            <ul class="col-xl-4 my-5" *ngFor="let kids of alldata">
+                <li style="display: none;" >{{kids.id}}</li>
+            <li><img width="350" height="400" [src]="kids.imgurl" alt=""></li>
+            <li>{{kids.name}}</li>
+            <li>{{kids.price}}</li>
+            <li><button class="btn btn-info mt-2">BUY NOW</button></li> 
+        </ul>
+    </div>
+</div>
